@@ -19,7 +19,6 @@
         <constructor-arg type="java.lang.String" name="name" value="aaa"></constructor-arg>
     </bean>
     -->
-
     <!--component注解方式（类前面要加一个@Component，以及导包）告知Spring在创建容器时要扫描的包-->
     <context:component-scan base-package="com.etc"> </context:component-scan>
     
