@@ -37,6 +37,14 @@
             <artifactId>slf4j-api</artifactId>
             <version>1.7.5</version>
         </dependency>
+             
+           <!-- hibernate 校验 -->
+           <dependency>
+             <groupId>org.hibernate</groupId>
+             <artifactId>hibernate-validator</artifactId>
+             <version>5.2.4.Final</version>
+           </dependency>
+
         <!--解析json -->
         <dependency>
             <groupId>org.codehaus.jackson</groupId>
