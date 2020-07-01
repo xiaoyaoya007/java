@@ -162,7 +162,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.22</version>
+            <version>8.0.16</version>
         </dependency>
         <!-- JSTL（JSP Standard Tag Library ，JSP标准标签库)是一个不断完善的开放源代码的JSP标签 -->
         <dependency>
